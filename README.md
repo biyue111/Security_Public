@@ -1,6 +1,7 @@
 # Project progress
 *31/10/2018*
 
+TODO: 
 1. Update k8s
 
 2. Install ELK platform
